@@ -1,6 +1,4 @@
-# Gamedev-Stocks-Data-Analysis
-
-# 🎮 Gamedev Stocks Data Analysis
+# 🎮 Polish Gamedev Stocks Data Analysis
 
 This project analyzes Polish gaming companies listed on the Warsaw Stock Exchange (GPW), with a focus on correlations, portfolio optimization, and the impact of game releases on stock prices.
 
